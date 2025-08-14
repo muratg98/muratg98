@@ -1,6 +1,6 @@
 ## Hey there 👋 my name is Murat
 
-I'm from London 🇬🇧, living in the GMT time zone 🌍. I'm a big fan of coding in Next.js ⚡ and, more recently, implementing Payload CMS 🛠️. I love testing new software — with tech evolving so fast, it feels like there’s something new to explore every second ⏱️.
+I'm from London 🇬🇧, living in the GMT time zone 🌍. I'm a big fan of coding in Next.js and, more recently, implementing Payload CMS. I love testing new software — with tech evolving so fast, it feels like there’s something new to explore every second ⏱️.
 
 When I'm not programming, you’ll probably find me eating 🍽️, training calisthenics 🤸, playing padel 🎾, or gaming 🎮.
 

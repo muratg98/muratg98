@@ -10,13 +10,12 @@ When I'm not coding, I'm probably eating, doing calisthenics, playing padel, or 
 
 **Resrchify** — a research platform with Supabase auth, dark mode, and markdown rendering for organising and archiving research findings.
 
-**[ShipShip](https://github.com/muratg98/shipship-site)** — an open-source dynamic project creator built with Next.js and Payload CMS. Pick what you need (auth, database, emailing, blogs, S3 storage) and generate a project template that's already close to production-ready.
-
 **AI Hub Display** — a home holographic display system using an expandable 3D fan to render holographic images and AI-generated visuals, acting as a central interactive hub in the house.
 
 ## Projects
 
 - **[GitDynamic](https://gitdynamic.io)** — GitHub profile and portfolio enhancement platform that surfaces real-time stats, project highlights, and custom content.
+- **[ShipShip](https://github.com/muratg98/shipship-site)** — dynamic project creator built with Next.js and Payload CMS.
 - **Card Quest** — Card-based quest web app built with Next.js and Supabase.
 - **Noor** — React Native mobile app with location services and notifications, built with Expo.
 - **[Portfolio](https://github.com/muratg98/portfolio)** — 3D interactive portfolio site built with React, Three.js, and Framer Motion.

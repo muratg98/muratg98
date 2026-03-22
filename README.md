@@ -17,7 +17,6 @@ When I'm not coding, I'm probably eating, doing calisthenics, playing padel, or 
 ## Projects
 
 - **[GitDynamic](https://gitdynamic.io)** — GitHub profile and portfolio enhancement platform that surfaces real-time stats, project highlights, and custom content.
-- **DevPlatform** — AI-powered dev environment with Agent Zero, multi-project workspaces, and Docker support.
 - **Card Quest** — Card-based quest web app built with Next.js and Supabase.
 - **Noor** — React Native mobile app with location services and notifications, built with Expo.
 - **[Portfolio](https://github.com/muratg98/portfolio)** — 3D interactive portfolio site built with React, Three.js, and Framer Motion.

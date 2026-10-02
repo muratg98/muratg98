@@ -1,51 +1,41 @@
-## Hey there 👋 I'm Murat
+# Hi, I'm Murat
 
-Full-stack developer from London, building with Next.js, React, TypeScript, and Python. Background in Health Psychology which keeps me thinking about how people actually use what I build. I like testing new tools, shipping side projects, and figuring out how AI fits into real workflows.
+I'm a developer in London. I studied psychology, taught myself to code, and in 2026 I left my developer job at Printerpix to build my own apps full-time. I build mostly with AI coding tools and post how it goes, including the parts that don't work.
 
-When I'm not coding, I'm probably eating, doing calisthenics, playing padel, or gaming.
+## Building now
 
-## Currently working on
+**[Owlex](https://www.owlex.co.uk)**: scan a trading card, see what it's worth, and list it to your own eBay.
 
-**[Daysee](https://github.com/muratg98/daysee)** — an open-source AI desktop assistant built with Electron and React. Integrates with multiple LLM providers (Claude, GPT, Ollama), maintains persistent chat sessions, and includes scheduled task automation and codebase analysis.
+- Scans one card or a whole binder page in one go. It names the right card first time 91% of the time, and has it in the top five up to 99.1% of the time.
+- Prices from live market data, matched to the exact print and condition.
+- Offline mode on paid plans, for card shows with no signal.
+- An AI assistant that answers questions about your collection.
+- It isn't a marketplace. Your listing goes on your own eBay account and Owlex takes 0% of the sale.
 
-**Resrchify** — a research platform with Supabase auth, dark mode, and markdown rendering for organising and archiving research findings.
+Pokémon, Magic, Yu-Gi-Oh!, One Piece and Lorcana. On the [App Store](https://apps.apple.com/gb/app/owlex-scan-price-list-tcg/id6793508493) and [Google Play](https://play.google.com/store/apps/details?id=app.owlex.mobile).
 
-**AI Hub Display** — a home holographic display system using an expandable 3D fan to render holographic images and AI-generated visuals, acting as a central interactive hub in the house.
+## Selected projects
 
-## Projects
+- **[Halal Games](https://apps.apple.com/app/id6765871994)**: five party games for Muslim families and friends. No music, no ads, no tracking.
+- **Zaman Bookings**: booking platform for nail and hair salons. I built the first version in 2024 and was called back in 2025 to add multi-tenancy and premium features.
+- **[GitDynamic](https://gitdynamic.io)**: turns a GitHub repo into a customisable starter template. Paused after it didn't find product-market fit.
+- **[PsychMem](https://github.com/muratg98/psychmem)**: memory for AI coding agents, modelled on how human memory works. Archived, with a write-up of why the approach hit a ceiling.
+- **[GP AI Audio Summarizer](https://github.com/muratg98/audio-summary-deepgram)**: records, transcribes and summarises GP consultations.
+- **[Portfolio](https://github.com/muratg98/portfolio)**: my site, built with React and Three.js.
 
-- **[GitDynamic](https://gitdynamic.io)** — GitHub profile and portfolio enhancement platform that surfaces real-time stats, project highlights, and custom content.
-- **[ShipShip](https://github.com/muratg98/shipship-site)** — dynamic project creator built with Next.js and Payload CMS.
-- **Card Quest** — Card-based quest web app built with Next.js and Supabase.
-- **Noor** — React Native mobile app with location services and notifications, built with Expo.
-- **[Portfolio](https://github.com/muratg98/portfolio)** — 3D interactive portfolio site built with React, Three.js, and Framer Motion.
-- **Zaman Bookings** — Multi-tenant booking platform for salons with Payload CMS, form builders, and email/SMS notifications.
-- **MaxReach** — AI-driven LinkedIn outreach tool using profile enrichment and a fine-tuned GPT-3.5 model.
-- **[GP Audio Summarizer](https://github.com/muratg98/audio-summary-deepgram)** — Transcribes audio using DeepGram API and generates structured health summaries with GPT-4.
-- **[OpenAI API GUI](https://github.com/muratg98/openai-api-gui)** — Desktop GUI for the OpenAI API, built to simplify fine-tuning workflows.
-- **[Google Maps Scraper](https://github.com/muratg98/google-maps-company-scraper)** — Selenium-based tool that collects business information from Google Maps.
-- **[Scrapers](https://github.com/muratg98/scrapers)** — Collection of web scrapers I've built for various data collection tasks.
-- **[Beyond Blackbox](https://github.com/muratg98/beyond-blackbox)** — Exploring and explaining ML concepts beyond surface level, working through Kaggle datasets.
+## How I build
 
-## Agentic coding
+- **Claude Code** is my main development environment: 1,500+ hours so far. I plan more than I prompt.
+- **TypeScript** nearly everywhere: Next.js and React on the web, React Native (Expo) on mobile.
+- **Supabase / Postgres**, MongoDB and Payload CMS behind them.
+- **Python** for scripts, scrapers and ML experiments.
 
-I use Claude Code daily as my primary development environment. Most of the projects above were built or significantly developed using agentic workflows. I've written custom Claude Code skills, hooks, and plugins to tailor the experience to how I work, including a job-hunting automation skill and a context-hub integration for fetching live API docs mid-session.
+Before code I was in research: I'm a co-author of a [2025 paper in *AI & Society*](https://doi.org/10.1007/s00146-025-02332-8) on how people accept AI assistants in healthcare.
 
-I also built [PsychMem](https://github.com/muratg98/psychmem), a psychology-grounded memory system for AI agents that brought short-term/long-term memory consolidation and decay curves to tools like Claude Code and OpenCode. That project evolved into Daysee, which takes the same ideas further as a standalone desktop assistant.
+## Follow along
 
-Beyond Claude Code, I've worked with the OpenAI API (fine-tuning GPT-3.5 models, building GUIs for prompt iteration), DeepGram for audio transcription, and integrated multiple LLM providers into my own tooling. I'm interested in how agentic systems can do useful work autonomously without losing the developer's control over quality.
+- Instagram: [@muratmakes](https://www.instagram.com/muratmakes/)
+- YouTube: [Murat G](https://www.youtube.com/@muratgungor_98)
+- Owlex: [@owlexapp on Instagram](https://instagram.com/owlexapp) and [TikTok](https://www.tiktok.com/@owlexapp)
 
-## Languages and Skills
-
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+Away from the keyboard: calisthenics, padel and gaming.
